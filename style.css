@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: red;
+    font-weight: bold;
+    font-family: Arial;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+p {
+    color: white;
+    font-family: Arial;
+}
+
+table, th, td {
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+li {
+    color: white;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.big {
+    font-size: x-large;
+}
+
+img {
+    border-style: solid;
+    border-color: hotpink;
+    border-width: thick;
+}
+
+iframe {
+    border-style: inset;
+    border-color: hotpink;
+    border-width: thick;
+}
